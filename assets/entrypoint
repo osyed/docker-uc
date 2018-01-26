@@ -1,0 +1,5 @@
+#!/bin/sh
+
+cd /home/user/uc
+su user sh -c /home/user/uc/launcher.iced 
+
